@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/itsmsn.github.io/static/css/main.2e183588.chunk.css",
+    "main.js": "/itsmsn.github.io/static/js/main.c906603f.chunk.js",
+    "main.js.map": "/itsmsn.github.io/static/js/main.c906603f.chunk.js.map",
+    "runtime-main.js": "/itsmsn.github.io/static/js/runtime-main.cdd35398.js",
+    "runtime-main.js.map": "/itsmsn.github.io/static/js/runtime-main.cdd35398.js.map",
+    "static/js/2.4d7bcbca.chunk.js": "/itsmsn.github.io/static/js/2.4d7bcbca.chunk.js",
+    "static/js/2.4d7bcbca.chunk.js.map": "/itsmsn.github.io/static/js/2.4d7bcbca.chunk.js.map",
+    "static/js/3.b36816c2.chunk.js": "/itsmsn.github.io/static/js/3.b36816c2.chunk.js",
+    "static/js/3.b36816c2.chunk.js.map": "/itsmsn.github.io/static/js/3.b36816c2.chunk.js.map",
+    "index.html": "/itsmsn.github.io/index.html",
+    "static/css/main.2e183588.chunk.css.map": "/itsmsn.github.io/static/css/main.2e183588.chunk.css.map",
+    "static/js/2.4d7bcbca.chunk.js.LICENSE.txt": "/itsmsn.github.io/static/js/2.4d7bcbca.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/itsmsn.github.io/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd35398.js",
+    "static/js/2.4d7bcbca.chunk.js",
+    "static/css/main.2e183588.chunk.css",
+    "static/js/main.c906603f.chunk.js"
+  ]
+}
