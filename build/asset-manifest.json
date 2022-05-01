@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wdc/static/css/main.35e670dd.chunk.css",
+    "main.js": "/wdc/static/js/main.c906603f.chunk.js",
+    "main.js.map": "/wdc/static/js/main.c906603f.chunk.js.map",
+    "runtime-main.js": "/wdc/static/js/runtime-main.f9b8233b.js",
+    "runtime-main.js.map": "/wdc/static/js/runtime-main.f9b8233b.js.map",
+    "static/js/2.ad3817a8.chunk.js": "/wdc/static/js/2.ad3817a8.chunk.js",
+    "static/js/2.ad3817a8.chunk.js.map": "/wdc/static/js/2.ad3817a8.chunk.js.map",
+    "static/js/3.b36816c2.chunk.js": "/wdc/static/js/3.b36816c2.chunk.js",
+    "static/js/3.b36816c2.chunk.js.map": "/wdc/static/js/3.b36816c2.chunk.js.map",
+    "index.html": "/wdc/index.html",
+    "static/css/main.35e670dd.chunk.css.map": "/wdc/static/css/main.35e670dd.chunk.css.map",
+    "static/js/2.ad3817a8.chunk.js.LICENSE.txt": "/wdc/static/js/2.ad3817a8.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/wdc/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b8233b.js",
+    "static/js/2.ad3817a8.chunk.js",
+    "static/css/main.35e670dd.chunk.css",
+    "static/js/main.c906603f.chunk.js"
+  ]
+}
